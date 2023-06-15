@@ -6,4 +6,4 @@
 ## Descripción
 
 ## Funcionamiento
-![](img/cat-gef6d96f21_1280.jpg)
+[def]: img/cat-gef6d96f21_1280.jpg
